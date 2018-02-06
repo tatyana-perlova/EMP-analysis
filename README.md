@@ -1,1 +1,3 @@
 # EMP-analysis
+Data analysis [pipeline](/bin/EMP_analysis.ipynb) employs dimensionality reduction and clustering algorithms to enable comparison of soil bacterial communities from [Earth microbiome project](http://www.earthmicrobiome.org/) based on the community structure and environmental metadata. 
+Results of the analysis were implemented in an interactive [web app](https://microbe-x.herokuapp.com). See [here](https://github.com/tatyana-perlova/microbe-x) for corresponding GitHub repository.
